@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ScoreView">
+        <attr name="text_color" format="color"></attr>
+        <attr name="text_size" format="float"></attr>
+        <attr name="max_score" format="float"></attr>
+        <attr name="src_drawable" format="reference"></attr>
+    </declare-styleable>
+</resources>
