@@ -3,7 +3,9 @@
 
 <img src="https://github.com/Ulez/ScoreView/blob/master/screenshots/a.png" width = "300" height = "507.6" align=center />
 <img src="https://github.com/Ulez/ScoreView/blob/master/screenshots/b.png" width = "300" height = "507.6" align=center />
+
 [Blog博客](http://blog.csdn.net/s122ktyt/article/details/74010904) 
+
 Usage:
 ```xml
     <comulez.github.scoreview.ScoreView
